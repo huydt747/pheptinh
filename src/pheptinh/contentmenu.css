@@ -1,0 +1,17 @@
+.content-menu .content-item{
+    width: 200px;
+    min-height: 250px;
+    border: 1px dotted #4d86bd;
+    float: left;
+    text-align: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding-top: 20px;
+}
+h4{
+    color: #23527c;
+    font-size: 20px;
+    font-weight: 400;
+}

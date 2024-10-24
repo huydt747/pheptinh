@@ -1,0 +1,68 @@
+.wrapper{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    text-align: left;
+    font-size: medium;
+    /* border: 1px solid; */
+    padding: 10px;
+    line-height: 1.42;
+}
+.content{
+    width: 750px;
+    height: 100%;
+    /* border: 1px solid; */
+    margin: 0px 10px 0px 0px;
+}
+.sidebar{
+    width: 250px;
+    /* border: 1px solid; */
+}
+h1{
+    border-bottom: 1px solid #eee;
+    font-size: 36px;
+    font-weight: 400;
+    color: #30519e;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+h3{
+    font-size: 1.2em;
+    color: #1f3a93;
+}
+table {
+    border-collapse: collapse;
+    width: 350px;
+}
+
+th, td {
+    border: 1px solid rgb(140, 140, 140);
+    padding: 10px; 
+    text-align: center;
+}
+input{
+    border-bottom: 1px solid;
+    width: 100px;
+    text-align: center;
+}
+.button{
+    border: 1px solid;
+    background-color: rgb(203, 203, 203);
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    
+}
+.thapphan{
+    width: 4%;
+}
+.output input{
+    border: 0px;
+}

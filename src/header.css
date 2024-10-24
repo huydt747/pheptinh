@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    background-color: #cecece; 
+    color: #333;
+}
+
+.header a {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 8px;
+    margin: 0 5px;
+    transition: background-color 0.3s ease;
+}
+
+.header a:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
+    border-radius: 5px;
+}
+h1{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 36px;
+}
+.header .search{
+    width: 200px;
+    height: 30px;
+    border: 1px solid;
+    background-color: white;
+    border-radius: 5px;
+}
